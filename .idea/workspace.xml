@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b226d795-5b1e-4155-9783-11d495552cec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test Results - Scenario__Verify_Google_com_title.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log4j.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyFirstTest.class" afterPath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyFirstTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyRunner.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" afterPath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" />
     </list>
     <ignored path="BDDTests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,8 +84,8 @@
       <file leaf-file-name="MyRunner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="375">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -288,6 +286,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber-html-report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -671,9 +692,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyRunner - 2017.11.07 at 21h 31m 56s.xml">
-      <configuration name="MyRunner" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="MyRunner - 2017.11.07 at 21h 32m 17s.xml">
       <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
@@ -692,14 +710,17 @@
     <history-entry file="MyRunner - 2017.11.07 at 21h 37m 37s.xml">
       <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 20h 40m 51s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 41m 38s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 21h 29m 14s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 43m 27s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 21h 30m 17s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 44m 15s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyRunner - 2017.11.07 at 21h 44m 40s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -955,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="375">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

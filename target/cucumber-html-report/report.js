@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 3118232943,
+  "duration": 2458501545,
   "status": "passed"
 });
 formatter.scenario({
@@ -53,25 +53,25 @@ formatter.match({
   "location": "MyFirstTest.i_am_on_the_google_com_home_page()"
 });
 formatter.result({
-  "duration": 2081486537,
+  "duration": 1826288660,
   "status": "passed"
 });
 formatter.match({
   "location": "MyFirstTest.i_searchfor_java()"
 });
 formatter.result({
-  "duration": 174091803,
+  "duration": 179422913,
   "status": "passed"
 });
 formatter.match({
   "location": "MyFirstTest.i_verify_that_search_contains_java()"
 });
 formatter.result({
-  "duration": 1642597095,
+  "duration": 1615485676,
   "status": "passed"
 });
 formatter.after({
-  "duration": 74831547,
+  "duration": 73129001,
   "status": "passed"
 });
 });
