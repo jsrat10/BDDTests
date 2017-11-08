@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b226d795-5b1e-4155-9783-11d495552cec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/helpers/Log.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/modules/HomePageAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/Hooks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/pageobjects/BaseClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/org/skytouch/MyFirstTest.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/org/skytouch/MyFirstTest.java" afterPath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyFirstTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test Results - Scenario__Verify_Google_com_title.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log4j.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyFirstTest.class" afterPath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyFirstTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/org/skytouch/step_definitions/MyRunner.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BDDTests.iml" afterPath="$PROJECT_DIR$/BDDTests.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/MyFirstTest.feature" afterPath="$PROJECT_DIR$/src/test/resources/MyFirstTest.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" afterPath="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" />
     </list>
     <ignored path="BDDTests.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,6 +23,7 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FavoritesManager">
     <favorites_list name="BDDTests" />
   </component>
@@ -39,8 +32,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="371">
+              <caret line="50" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -56,14 +49,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="206">
               <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log4j.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyRunner.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyRunner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,16 +148,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BDDTests.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BDDTests.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -184,10 +177,11 @@
         <option value="$PROJECT_DIR$/src/test/java/helpers/log.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/resources/MyFirstTest.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/modules/HomePageAction.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyFirstTest.java" />
+        <option value="$PROJECT_DIR$/log4j.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java" />
       </list>
     </option>
   </component>
@@ -201,7 +195,7 @@
   <component name="MavenProjectNavigator">
     <treeState />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="234" />
     <option name="y" value="23" />
     <option name="width" value="1067" />
@@ -278,14 +272,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="step_definitions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -302,23 +288,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BDDTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BDDTests" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Verify Google.com title">
+  <component name="RunManager" selected="TestNG.MyRunner">
     <configuration name="Feature: MyFirstTest" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -368,6 +337,38 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="BDDTests" />
       <envs />
+    </configuration>
+    <configuration name="MyRunner" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.skytouch.step_definitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="BDDTests" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="org.skytouch.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="org.skytouch.step_definitions.MyRunner" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="Scenario: Verify Google.com title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -640,14 +641,16 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Cucumber java.Feature: MyFirstTest" />
       <item index="1" class="java.lang.String" itemvalue="Cucumber java.Scenario: Verify Google.com title" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.MyRunner" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber java.Scenario: Verify Google.com title" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Feature: MyFirstTest" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.MyRunner" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber java.Scenario: Verify Google.com title" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber java.Feature: MyFirstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -668,55 +671,56 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__MyFirstTest - 2017.11.07 at 15h 41m 12s.xml">
-      <configuration name="Feature: MyFirstTest" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 31m 56s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 16h 13m 03s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 32m 17s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 17h 34m 54s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 32m 41s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 19h 43m 48s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 32m 57s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 19h 44m 19s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 33m 29s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 20h 02m 50s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 34m 18s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 20h 09m 40s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 20h 10m 34s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 20h 34m 02s.xml">
-      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="MyRunner - 2017.11.07 at 21h 37m 37s.xml">
+      <configuration name="MyRunner" configurationId="TestNG" />
     </history-entry>
     <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 20h 40m 51s.xml">
       <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 21h 29m 14s.xml">
+      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Verify_Google_com_title - 2017.11.07 at 21h 30m 17s.xml">
+      <configuration name="Scenario: Verify Google.com title" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="234" y="23" width="1067" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54035085" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31090176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32802248" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -727,7 +731,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -861,22 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/MyFirstTest.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/helpers/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -910,16 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/modules/HomePageAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -944,8 +921,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="206">
           <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="50" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/MyFirstTest.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/skytouch/step_definitions/MyRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

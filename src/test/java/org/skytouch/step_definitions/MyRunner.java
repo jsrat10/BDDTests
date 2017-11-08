@@ -6,9 +6,10 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 
 @CucumberOptions(
-        features = "classpath:features",
+        features = "classpath:MyFirstTest.feature",
         plugin = {"pretty", "html:target/cucumber-html-report"},
-        tags = {}
+        glue = {"classpath:org.skytouch.step_definitions"},
+        tags = {"@sanity,@regression"}
 )
 
 //@CucumberOptions(features="src/test/resources/*",glue="com.skytouch")
